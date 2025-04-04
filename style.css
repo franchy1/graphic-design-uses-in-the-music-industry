@@ -1,0 +1,44 @@
+body{
+  font-family: "Garamond";
+  */background-color: rgba(15, 15, 15);
+  text-align: center;
+  background-image: url("https://static.vecteezy.com/system/resources/previews/047/108/604/non_2x/trippy-checkerboard-background-checker-pattern-vector.jpg");
+}
+ 
+  
+ 
+.neon {
+  color: #feet;
+  text-shadow:
+    0 0 5px #fff,
+    0 0 10px #fff,
+    0 0 20px #fff,
+    0 0 40px #f319,
+    0 0 80px #f319,
+    0 0 90px #f319,
+    0 0 100px #f319,
+    0 0 150px #f319;    
+  
+}
+
+h1{
+  color: rgba(15, 15, 15);
+  font-size: 60px;
+  margin-bottom: 80px;
+  margin-top: 100px
+  
+}
+h2{
+  color: rgba(15, 15, 15);
+  font-size: 25px;
+  margin-top: 0.px;
+  margin-bottom: 80px
+   
+}
+  
+.container{
+background-color: rgba(245, 5, 185,.2);
+  margin-left: 200px;
+  margin-right: 200px;
+  
+}
